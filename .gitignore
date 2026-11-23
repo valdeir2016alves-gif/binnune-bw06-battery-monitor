@@ -1,0 +1,15 @@
+# Compiled binaries & debug symbols
+*.exe
+*.dll
+*.pdb
+
+# Local state & logs
+*.ini
+*.log
+*.tmp
+
+# OS / Editor files
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini
